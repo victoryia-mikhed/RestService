@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<dataset>
+    <BOOKS
+            TITLE="title1"
+            AUTHOR="author1"
+            BOOK_ID="1"/>
+    <BOOKS
+            TITLE="title2"
+            AUTHOR="author2"
+            BOOK_ID="2"/>
+    <BOOKS
+            TITLE="title3"
+            AUTHOR="author3"
+            BOOK_ID="3"/>
+</dataset>
